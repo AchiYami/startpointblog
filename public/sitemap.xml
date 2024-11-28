@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313///starpointblog/tags/another/</loc>
+    <loc>//localhost:1313///post/tags/another/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///starpointblog/post/binus-wingus-the-blingus/</loc>
+    <loc>//localhost:1313///post/post/binus-wingus-the-blingus/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///starpointblog/categories/</loc>
+    <loc>//localhost:1313///post/categories/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///starpointblog/categories/category-1/</loc>
+    <loc>//localhost:1313///post/categories/category-1/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///starpointblog/categories/category-2/</loc>
+    <loc>//localhost:1313///post/categories/category-2/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///starpointblog/post/</loc>
+    <loc>//localhost:1313///post/post/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///starpointblog/</loc>
+    <loc>//localhost:1313///post/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///starpointblog/tags/tag/</loc>
+    <loc>//localhost:1313///post/tags/tag/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///starpointblog/tags/</loc>
+    <loc>//localhost:1313///post/tags/</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
   </url>
 </urlset>
